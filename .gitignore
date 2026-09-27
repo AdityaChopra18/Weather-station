@@ -1,0 +1,17 @@
+# Never commit private config
+secrets.h
+config.h
+*.local.ino
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Generated files
+weather_plot.png
+weather_ml_dataset.csv
+ajmer_weather.csv
+readings.csv
+rain_model.pkl
