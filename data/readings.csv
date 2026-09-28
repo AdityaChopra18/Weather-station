@@ -1,0 +1,2 @@
+timestamp,bmp_temp_c,dht_temp_c,avg_temp_c,humidity_pct,pressure_hpa,is_raining,rain_analog,battery_v
+2026-09-28 11:54:29,30.14,0.00,15.07,0.00,952.99,1,0,0.90
